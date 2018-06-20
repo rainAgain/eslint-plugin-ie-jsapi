@@ -36,7 +36,7 @@ Then configure the rules you want to use under the rules section.
 ```json
 {
     "rules": {
-        "ie-jsapi/rule-name": 2
+        "ie-jsapi/ie-jsapi": "error"
     }
 }
 ```
@@ -58,7 +58,17 @@ of methods for each Object type. Example:
 ```
 ## Supported Rules
 
-* Fill in provided rules here
+```
+Extra: {
+    methods: ['forEach','isArray'], // add api
+    tips: {
+      // add error browser tip
+      "forEach": {
+        unsuportBrowser: 'IE 8,safari'
+      }
+    }
+  }
+```
 
 
 

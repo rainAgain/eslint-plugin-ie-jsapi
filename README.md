@@ -2,6 +2,10 @@
 
 use to check ie jsapi
 
+## Fork
+
+forked from [rfeie/eslint-plugin-ie-static-methods](https://github.com/rfeie/eslint-plugin-ie-static-methods)
+
 ## Installation
 
 You'll first need to install [ESLint](http://eslint.org):

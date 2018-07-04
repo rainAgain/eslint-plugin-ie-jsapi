@@ -6,6 +6,12 @@ use to check ie jsapi
 
 forked from [rfeie/eslint-plugin-ie-static-methods](https://github.com/rfeie/eslint-plugin-ie-static-methods)
 
+## Introduce
+
+this package just add a part of js api in Es5.
+
+you can fork this package then write the extra.js
+
 ## Installation
 
 You'll first need to install [ESLint](http://eslint.org):
@@ -73,6 +79,8 @@ Extra: {
     }
   }
 ```
+
+or in new version you can add js api in  extra.js
 
 
 

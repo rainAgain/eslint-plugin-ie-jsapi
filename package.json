@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-ie-jsapi",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "use to check ie jsapi",
   "repository": "https://github.com/rainAgain/eslint-plugin-ie-jsapi",
   "keywords": [
